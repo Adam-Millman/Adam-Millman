@@ -1,4 +1,4 @@
-<!--
+
 **Adam-Millman/Adam-Millman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 # Welcome :alien:
 ## Hello, I'm Adam welcome to my github
 - I am currently enrolled at **Raritan Valley Community College** as an **Information Systems & Technology major**
