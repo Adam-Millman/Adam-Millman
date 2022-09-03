@@ -5,6 +5,6 @@
 - I love to rock climb :climbing_man: and meet new people
 - I am also a member of the *Phi Thetta Kappa* Honors society
 - 🌱 I’m currently learning html, css, and java
-- 📫 How to reach me: [email](amillman20@gmail.com)
 - ### Related
   -  [Video Project](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ps: Pineapple ~does not~ belong on Pizza
