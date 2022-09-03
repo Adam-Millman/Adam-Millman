@@ -7,5 +7,9 @@
 - 🌱 I’m currently learning html, css, and java
 - ### Related
   -  [Video Project](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- How to contact me
+  - email: amillman20@gmail.com
+  - discord: ThePolaroidKid#6728
 - ps: Pineapple ~does not~ belong on Pizza
 ![pineapple pizza](https://user-images.githubusercontent.com/94012533/188274025-1da54c3d-bae9-4dc1-bcf0-a63414315e6c.jpg)
+- [image source](https://www.delicious.com.au/food-files/news-articles/article/pineapple-pizza-debate/ck2zRDvn)
