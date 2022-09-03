@@ -8,3 +8,4 @@
 - ### Related
   -  [Video Project](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - ps: Pineapple ~does not~ belong on Pizza
+![pineapple pizza](https://user-images.githubusercontent.com/94012533/188274025-1da54c3d-bae9-4dc1-bcf0-a63414315e6c.jpg)
