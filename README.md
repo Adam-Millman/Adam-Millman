@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning html, css, and java
 - ### Related
   -  [Video Project](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-ps: Pineapple ~does not~ belong on Pizza
+- ps: Pineapple ~does not~ belong on Pizza
