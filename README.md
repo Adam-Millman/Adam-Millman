@@ -70,7 +70,7 @@ Designed and deployed websites while providing backend IT support.
 - Ongoing technical support
 
 Example:
-- **Bloodstone Tattoo** – website design & build
+- **[Bloodstone Tattoos](https://www.bloodstonetattoos.com/)** – website design & build
 
 ---
 
