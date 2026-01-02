@@ -50,6 +50,7 @@ Outside of tech, I’m usually **rock climbing 🧗‍♂️**, traveling, or me
 - Interchangeable inputs
 - Custom remapping system
 - Accessibility-first design philosophy
+- **[Spud](https://adam-millman.github.io/)** - project website
 
 > Explores alternative interaction models beyond traditional controllers.
 
