@@ -55,14 +55,6 @@ Outside of tech, I’m usually **rock climbing 🧗‍♂️**, traveling, or me
 
 ---
 
-### 🥽 VR Inventory & Accessibility Systems
-A series of **VR inventory systems** designed to support users with limited finger or hand mobility.
-- Gesture-based menus
-- Body-mounted (holster) inventories
-- Button-toggle systems using XR Slot Interactors
-
----
-
 ### 🤖 Discord Moderation Bot
 Automated moderation bot built to manage community servers.
 - Rule enforcement
